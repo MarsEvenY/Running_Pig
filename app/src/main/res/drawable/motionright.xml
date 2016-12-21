@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 小猪向右奔跑的动画资源 -->
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/pig1"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/pig2"
+        android:duration="40" />
+</animation-list>
